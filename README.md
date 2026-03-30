@@ -29,9 +29,3 @@ streamlit run app.py
 ## Author
 Neetesh Chaurasia — B.Tech CSE AI, Technocrat's Institute of Technology
 ```
-
-Save karo — phir GitHub pe push karo:
-```
-git add .
-git commit -m "README added"
-git push origin master
