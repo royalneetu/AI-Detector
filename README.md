@@ -28,4 +28,3 @@ streamlit run app.py
 
 ## Author
 Neetesh Chaurasia — B.Tech CSE AI, Technocrat's Institute of Technology
-```
